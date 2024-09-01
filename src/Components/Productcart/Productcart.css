@@ -1,0 +1,69 @@
+.table_container{
+    margin: 40px 0px;
+}
+
+.table_container .heading{
+    margin: 15px auto;
+    font-size: 25px;
+    
+}
+.table_container .table_row{
+    background-color: black;
+}
+.table_container .table_cell{
+    color: white;
+}
+
+.table_container .qty_btn{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    padding: 8px;
+    margin-left: 5px;
+}
+.table_container .qty_btn:hover{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    padding: 8px;
+    margin-left: 5px;
+}
+.table_container .del_btn{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    padding: 8px;
+    margin-left: 5px;
+}
+.table_container.del_btn:hover{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    padding: 8px;
+    margin-left: 5px;
+}
+.table_container .prod_img{
+    width:80px;
+    height:80px
+}
+.table_container .prod_img img{
+    width:80px;
+    height:80px
+}
+
+.table_container .total_price{
+    margin :20px auto;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+.table_container .table_data{
+    background-color: lightsalmon;
+}
+.table_container .home_btn{
+    margin-top: 20px;
+    background-color: cornflowerblue;
+    color: beige;
+}
+
+
